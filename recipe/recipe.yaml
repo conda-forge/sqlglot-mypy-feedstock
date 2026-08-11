@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "2.1.0.post9"
+  version: "2.3.0.post1"
 
 package:
   name: sqlglot-mypy
@@ -9,7 +9,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/s/sqlglot-mypy/sqlglot_mypy-${{ version }}.tar.gz
-    sha256: 742ff1a0f3b400306521ea40e4e7e37a029f06bf8b28de93a5e7ba42b3ed0a59
+    sha256: 39fe7d4556b94049f8e07691c4bb6c7f2739d9807495ea8eee1bba2d5b6b13a1
 
 build:
   number: 0
