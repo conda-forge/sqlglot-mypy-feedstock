@@ -12,7 +12,7 @@ source:
     sha256: d1331af512f35d09d166445c0c19ba863596e222af705452593039f72140fe84
 
 build:
-  number: 0
+  number: 1
   script:
     env:
       MYPY_USE_MYPYC: "1"
